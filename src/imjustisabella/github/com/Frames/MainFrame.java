@@ -4,7 +4,8 @@ import imjustisabella.github.com.Frames.Tabs.ProgramsTab;
 import imjustisabella.github.com.Frames.Tabs.SettingsTab;
 import imjustisabella.github.com.Frames.Tabs.TasksTab;
 
-import javax.swing.*;
+import javax.swing.JFrame;
+import javax.swing.JTabbedPane;
 
 public class MainFrame {
 

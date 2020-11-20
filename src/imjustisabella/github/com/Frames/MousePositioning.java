@@ -2,10 +2,13 @@ package imjustisabella.github.com.Frames;
 
 import com.sun.awt.AWTUtilities;
 
-import javax.swing.*;
+import javax.swing.JLabel;
+import javax.swing.BorderFactory;
 import javax.swing.border.Border;
-import javax.swing.border.EmptyBorder;
-import java.awt.*;
+import java.awt.Window;
+import java.awt.Dimension;
+import java.awt.Toolkit;
+import java.awt.Color;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 

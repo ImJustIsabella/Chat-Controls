@@ -1,6 +1,6 @@
 package imjustisabella.github.com.Frames.Tabs;
 
-import javax.swing.*;
+import javax.swing.JPanel;
 
 public class ProgramsTab {
 
